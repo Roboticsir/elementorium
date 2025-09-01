@@ -20,7 +20,7 @@
 - [Problem Statement](#-problem-statement)
 - [Applications and Impact](#-applications-and-impact)
 - [Research Methodology](#-research-methodology)
-- [System Architecture and Tools](#-system-architecture-and-tools)
+- [System Architecture and Tools](#system-architecture-and-tools)
 - [References and Resources](#-references-and-resources)
 - [Contributing](#-contributing)
 - [License](#-license)
