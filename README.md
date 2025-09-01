@@ -128,7 +128,7 @@ Elementorium follows a hybrid methodology combining **experimental biology, engi
 
 ---
 
-# System Architecture and Tools  
+## 🏗️ System Architecture and Tools
 
 Elementorium integrates **biology, engineering, and computational intelligence** across three layers:  
 
