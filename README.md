@@ -5,10 +5,10 @@
 
 # 🌍 Elementorium  
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](#-contributing)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-green.svg)](#-contributing)
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)](https://opensource.org/)
-[![Last Commit](https://img.shields.io/github/last-commit/username/repo)](https://github.com/username/repo)
+
 
 **Elementorium** is a *mini self-sustaining biosphere* that blends **science, art, and sustainability** by recreating life’s origin using the *five natural elements* inside an open-source acrylic structure.  
 
